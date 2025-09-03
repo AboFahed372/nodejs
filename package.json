@@ -2,10 +2,10 @@
   "name": "points-bot",
   "version": "1.0.0",
   "description": "Discord points bot with admin panel and interactive replies",
-  "main": "app.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "discord.js": "^14.15.3",
